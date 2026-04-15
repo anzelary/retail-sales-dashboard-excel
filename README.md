@@ -23,4 +23,7 @@ It includes KPI cards, interactive slicers, Pivot Tables, and visual dashboards.
 - Retail analytics
 
 ## Preview
+## Full Report 
 ![Dashboard Screenshot](retails_sales_report_all_categories.jpg)
+## Report filtered by "Furniture" category
+![Dashboard Screenshot](retails_sales_report_furniture.jpg)
