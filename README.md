@@ -23,4 +23,4 @@ It includes KPI cards, interactive slicers, Pivot Tables, and visual dashboards.
 - Retail analytics
 
 ## Preview
-![Dashboard Screenshot](retail_sales_report_all_categories.jpg)
+![Dashboard Screenshot](retails_sales_report_all_categories.jpg)
