@@ -1,0 +1,214 @@
+﻿Order ID,Order Date,Shipment date,Product,Category,Region,Quantity,Unit Price,Discount,Total Sales
+1001,03/01/2024,,Wireless Mouse,Electronics,North,2,15.99,,15.99
+1002,04/01/2024,,Basketball,Sports,East,1,14.99,,14.99
+1002,04/01/2024,,Coffee Maker,Home Appliances,South,1,79.99,0.1,71.991
+1003,05/01/2024,,Running Shoes,Sports,East,1,59.99,,59.99
+1003,05/01/2024,,Water Bottle,Sports,South,2,9.99,,9.99
+1004,06/01/2024,,LED Monitor,Electronics,West,1,129.99,0.05,123.4905
+1005,06/01/2024,,Desk Lamp,Furniture,North,3,22.5,,22.5
+1006,07/01/2024,,Notebook,Stationery,South,5,2.99,,2.99
+1007,07/01/2024,,Desk Lamp,Furniture,North,1,22.5,,22.5
+1007,07/01/2024,,Desk Organizer,Furniture,North,1,12.99,,12.99
+1007,07/01/2024,,Office Chair,Furniture,East,1,149.99,0.15,127.4915
+1008,08/01/2024,,Blender,Home Appliances,West,2,49.99,,49.99
+1009,09/01/2024,,Headphones,Electronics,North,1,39.99,,39.99
+1011,11/01/2024,,Printer Paper,Stationery,East,10,0.99,,0.99
+1012,12/01/2024,,Smartwatch,Electronics,West,1,199.99,0.1,179.991
+1013,12/01/2024,,Desk Organizer,Furniture,North,2,12.99,,12.99
+1014,13/01/2024,,Air Fryer,Home Appliances,South,1,89.99,0.05,85.4905
+1015,14/01/2024,,Treadmill,Sports,East,1,499.99,0.2,399.992
+1016,15/01/2024,,Pen Set,Stationery,West,3,4.99,,4.99
+1017,16/01/2024,,Keyboard,Electronics,North,1,29.99,,29.99
+1018,17/01/2024,,Vacuum Cleaner,Home Appliances,South,1,129.99,,129.99
+1019,18/01/2024,,Yoga Mat,Sports,East,2,19.99,,19.99
+1020,19/01/2024,,Bookshelf,Furniture,West,1,89.99,,89.99
+1021,20/01/2024,,Stapler,Stationery,North,2,5.99,,5.99
+1022,21/01/2024,,Tablet,Electronics,South,1,249.99,0.15,212.4915
+1023,22/01/2024,,Toaster,Home Appliances,East,1,29.99,,29.99
+1024,23/01/2024,,Dumbbells,Sports,West,2,24.99,,24.99
+1025,24/01/2024,,Office Desk,Furniture,North,1,199.99,0.1,179.991
+1026,25/01/2024,,Markers,Stationery,South,6,1.99,,1.99
+1027,26/01/2024,,Webcam,Electronics,East,1,49.99,,49.99
+1028,27/01/2024,,Microwave,Home Appliances,West,1,99.99,0.05,94.9905
+1029,28/01/2024,,Tennis Racket,Sports,North,1,69.99,,69.99
+1030,29/01/2024,,File Cabinet,Furniture,South,1,129.99,,129.99
+1031,30/01/2024,,Highlighters,Stationery,East,4,1.49,,1.49
+1032,31/01/2024,,Laptop,Electronics,West,1,799.99,0.1,719.991
+1033,01/02/2024,,Slow Cooker,Home Appliances,North,1,59.99,,59.99
+1034,02/02/2024,,Jump Rope,Sports,South,3,7.99,,7.99
+1035,03/02/2024,,Bookshelf,Furniture,East,1,89.99,,89.99
+1036,04/02/2024,,Sticky Notes,Stationery,West,8,0.99,,0.99
+1037,05/02/2024,,Wireless Keyboard,Electronics,North,1,39.99,,39.99
+1038,06/02/2024,,Air Purifier,Home Appliances,South,1,149.99,0.1,134.991
+1039,07/02/2024,,Basketball,Sports,East,2,14.99,,14.99
+1040,08/02/2024,,Office Chair,Furniture,West,1,149.99,0.15,127.4915
+1041,09/02/2024,,Envelopes,Stationery,North,5,0.79,,0.79
+1042,10/02/2024,,Smartphone,Electronics,South,1,599.99,0.1,539.991
+1043,11/02/2024,,Blender,Home Appliances,East,1,49.99,,49.99
+1044,12/02/2024,,Yoga Block,Sports,West,3,9.99,,9.99
+1045,13/02/2024,,Desk Lamp,Furniture,North,2,22.5,,22.5
+1046,14/02/2024,,Notebook,Stationery,South,4,2.99,,2.99
+1047,15/02/2024,,Monitor Stand,Electronics,East,1,29.99,,29.99
+1048,16/02/2024,,Air Fryer,Home Appliances,West,1,89.99,0.05,85.4905
+1049,17/02/2024,,Treadmill,Sports,North,1,499.99,0.2,399.992
+1050,18/02/2024,,Office Desk,Furniture,South,1,199.99,0.1,179.991
+2001,01/02/2024,,Wireless Mouse,Electronics,North,1,15.99,,15.99
+2001,01/02/2024,,Wireless Mouse,Electronics,North,1,15.99,,15.99
+2002,01/02/2024,,Air Fryer,Home Appliances,South,1,89.99,0.05,85.4905
+2002,01/02/2024,,Air Fryer,Home Appliances,South,1,89.99,0.05,85.4905
+2003,02/02/2024,,Running Shoes,Sports,East,2,59.99,,59.99
+2003,02/02/2024,,Running Shoes,Sports,East,2,59.99,,59.99
+2003,02/02/2024,,Water Bottle,Sports,South,2,9.99,,9.99
+2003,02/02/2024,,Water Bottle,Sports,South,2,9.99,,9.99
+2004,02/02/2024,,Desk Lamp,Furniture,West,1,22.5,,22.5
+2004,02/02/2024,,Desk Lamp,Furniture,West,1,22.5,,22.5
+2005,03/02/2024,,Notebook,Stationery,North,6,2.99,,2.99
+2005,03/02/2024,,Notebook,Stationery,North,6,2.99,,2.99
+2006,03/02/2024,,LED Monitor,Electronics,South,1,129.99,0.1,116.991
+2006,03/02/2024,,LED Monitor,Electronics,South,1,129.99,0.1,116.991
+2007,04/02/2024,,Basketball,Sports,East,1,14.99,,14.99
+2007,04/02/2024,,Blender,Home Appliances,East,1,49.99,,49.99
+2007,04/02/2024,,Blender,Home Appliances,East,1,49.99,,49.99
+2008,04/02/2024,,Office Chair,Furniture,West,1,149.99,0.15,127.4915
+2008,04/02/2024,,Office Chair,Furniture,West,1,149.99,0.15,127.4915
+2009,05/02/2024,,Headphones,Electronics,North,2,39.99,,39.99
+2009,05/02/2024,,Headphones,Electronics,North,2,39.99,,39.99
+2010,05/02/2024,,Water Bottle,Sports,South,1,9.99,,9.99
+2011,06/02/2024,,Printer Paper,Stationery,East,12,0.99,,0.99
+2011,06/02/2024,,Printer Paper,Stationery,East,12,0.99,,0.99
+2012,06/02/2024,,Smartwatch,Electronics,West,1,199.99,0.1,179.991
+2012,06/02/2024,,Smartwatch,Electronics,West,1,199.99,0.1,179.991
+2013,07/02/2024,,Desk Organizer,Furniture,North,1,12.99,,12.99
+2013,07/02/2024,,Desk Organizer,Furniture,North,1,12.99,,12.99
+2014,07/02/2024,,Vacuum Cleaner,Home Appliances,South,1,129.99,,129.99
+2014,07/02/2024,,Vacuum Cleaner,Home Appliances,South,1,129.99,,129.99
+2015,08/02/2024,,Yoga Mat,Sports,East,2,19.99,,19.99
+2015,08/02/2024,,Yoga Mat,Sports,East,2,19.99,,19.99
+2016,08/02/2024,,Bookshelf,Furniture,West,1,89.99,,89.99
+2016,08/02/2024,,Bookshelf,Furniture,West,1,89.99,,89.99
+2017,09/02/2024,,Stapler,Stationery,North,3,5.99,,5.99
+2017,09/02/2024,,Stapler,Stationery,North,3,5.99,,5.99
+2018,09/02/2024,,Tablet,Electronics,South,1,249.99,0.15,212.4915
+2018,09/02/2024,,Tablet,Electronics,South,1,249.99,0.15,212.4915
+2019,10/02/2024,,Toaster,Home Appliances,East,1,29.99,,29.99
+2019,10/02/2024,,Toaster,Home Appliances,East,1,29.99,,29.99
+2020,10/02/2024,,Dumbbells,Sports,West,2,24.99,,24.99
+2020,10/02/2024,,Dumbbells,Sports,West,2,24.99,,24.99
+2021,11/02/2024,,Office Desk,Furniture,North,1,199.99,0.1,179.991
+2021,11/02/2024,,Office Desk,Furniture,North,1,199.99,0.1,179.991
+2022,11/02/2024,,Markers,Stationery,South,8,1.99,,1.99
+2022,11/02/2024,,Markers,Stationery,South,8,1.99,,1.99
+2023,12/02/2024,,Webcam,Electronics,East,1,49.99,,49.99
+2023,12/02/2024,,Webcam,Electronics,East,1,49.99,,49.99
+2024,12/02/2024,,Microwave,Home Appliances,West,1,99.99,0.05,94.9905
+2024,12/02/2024,,Microwave,Home Appliances,West,1,99.99,0.05,94.9905
+2025,13/02/2024,,Tennis Racket,Sports,North,1,69.99,,69.99
+2025,13/02/2024,,Tennis Racket,Sports,North,1,69.99,,69.99
+2026,13/02/2024,,File Cabinet,Furniture,South,1,129.99,,129.99
+2026,13/02/2024,,File Cabinet,Furniture,South,1,129.99,,129.99
+2027,14/02/2024,,Basketball,Sports,East,1,14.99,,14.99
+2027,14/02/2024,,Basketball,Sports,East,1,14.99,,14.99
+2027,14/02/2024,,Highlighters,Stationery,East,5,1.49,,1.49
+2027,14/02/2024,,Highlighters,Stationery,East,5,1.49,,1.49
+2028,14/02/2024,,Basketball,Sports,East,1,14.99,,14.99
+2028,14/02/2024,,Basketball,Sports,East,1,14.99,,14.99
+2028,14/02/2024,,Laptop,Electronics,West,1,799.99,0.1,719.991
+2028,14/02/2024,,Laptop,Electronics,West,1,799.99,0.1,719.991
+2029,15/02/2024,,Slow Cooker,Home Appliances,North,1,59.99,,59.99
+2029,15/02/2024,,Slow Cooker,Home Appliances,North,1,59.99,,59.99
+2030,15/02/2024,,Jump Rope,Sports,South,4,7.99,,7.99
+2030,15/02/2024,,Jump Rope,Sports,South,4,7.99,,7.99
+2031,16/02/2024,,Bookshelf,Furniture,East,1,89.99,,89.99
+2031,16/02/2024,,Bookshelf,Furniture,East,1,89.99,,89.99
+2032,16/02/2024,,Sticky Notes,Stationery,West,10,0.99,,0.99
+2032,16/02/2024,,Sticky Notes,Stationery,West,10,0.99,,0.99
+2033,17/02/2024,,Wireless Keyboard,Electronics,North,1,39.99,,39.99
+2033,17/02/2024,,Wireless Keyboard,Electronics,North,1,39.99,,39.99
+2034,17/02/2024,,Air Purifier,Home Appliances,South,1,149.99,0.1,134.991
+2034,17/02/2024,,Air Purifier,Home Appliances,South,1,149.99,0.1,134.991
+2035,18/02/2024,,Basketball,Sports,East,1,14.99,,14.99
+2035,18/02/2024,,Basketball,Sports,East,1,14.99,,14.99
+2036,18/02/2024,,Office Chair,Furniture,West,1,149.99,0.15,127.4915
+2036,18/02/2024,,Office Chair,Furniture,West,1,149.99,0.15,127.4915
+2037,19/02/2024,,Envelopes,Stationery,North,7,0.79,,0.79
+2037,19/02/2024,,Envelopes,Stationery,North,7,0.79,,0.79
+2038,19/02/2024,,Smartphone,Electronics,South,1,599.99,0.1,539.991
+2038,19/02/2024,,Smartphone,Electronics,South,1,599.99,0.1,539.991
+2039,20/02/2024,,Blender,Home Appliances,East,2,49.99,,49.99
+2039,20/02/2024,,Blender,Home Appliances,East,2,49.99,,49.99
+2040,20/02/2024,,Yoga Block,Sports,West,3,9.99,,9.99
+2040,20/02/2024,,Yoga Block,Sports,West,3,9.99,,9.99
+2041,21/02/2024,,Desk Lamp,Furniture,North,1,22.5,,22.5
+2041,21/02/2024,,Desk Lamp,Furniture,North,1,22.5,,22.5
+2042,21/02/2024,,Notebook,Stationery,South,5,2.99,,2.99
+2042,21/02/2024,,Notebook,Stationery,South,5,2.99,,2.99
+2043,22/02/2024,,Monitor Stand,Electronics,East,1,29.99,,29.99
+2043,22/02/2024,,Monitor Stand,Electronics,East,1,29.99,,29.99
+2044,22/02/2024,,Air Fryer,Home Appliances,West,1,89.99,0.05,85.4905
+2044,22/02/2024,,Air Fryer,Home Appliances,West,1,89.99,0.05,85.4905
+2045,23/02/2024,,Treadmill,Sports,North,1,499.99,0.2,399.992
+2045,23/02/2024,,Treadmill,Sports,North,1,499.99,0.2,399.992
+2046,23/02/2024,,Office Desk,Furniture,South,1,199.99,0.1,179.991
+2046,23/02/2024,,Office Desk,Furniture,South,1,199.99,0.1,179.991
+2047,24/02/2024,,Pen Set,Stationery,East,4,4.99,,4.99
+2047,24/02/2024,,Pen Set,Stationery,East,4,4.99,,4.99
+2048,24/02/2024,,Keyboard,Electronics,West,1,29.99,,29.99
+2048,24/02/2024,,Keyboard,Electronics,West,1,29.99,,29.99
+2049,25/02/2024,,Vacuum Cleaner,Home Appliances,North,1,129.99,,129.99
+2049,25/02/2024,,Vacuum Cleaner,Home Appliances,North,1,129.99,,129.99
+2050,25/02/2024,,Water Bottle,Sports,South,5,9.99,,9.99
+3001,01/03/2024,,Wireless Mouse,Electronics,North,2,15.99,,15.99
+3002,01/03/2024,,Air Fryer,Home Appliances,South,1,89.99,0.05,85.4905
+3003,02/03/2024,,Running Shoes,Sports,East,1,59.99,,59.99
+3003,02/03/2024,,Water Bottle,Sports,South,2,9.99,,9.99
+3004,02/03/2024,,Desk Lamp,Furniture,West,2,22.5,,22.5
+3005,03/03/2024,,Notebook,Stationery,North,4,2.99,,2.99
+3006,03/03/2024,,LED Monitor,Electronics,South,1,129.99,0.1,116.991
+3007,04/03/2024,,Blender,Home Appliances,East,1,49.99,,49.99
+3008,04/03/2024,,Office Chair,Furniture,West,1,149.99,0.15,127.4915
+3009,05/03/2024,,Headphones,Electronics,North,1,39.99,,39.99
+3011,06/03/2024,,Printer Paper,Stationery,East,15,0.99,,0.99
+3012,06/03/2024,,Smartwatch,Electronics,West,1,199.99,0.1,179.991
+3012,06/03/2024,,Vacuum Cleaner,Home Appliances,South,1,129.99,0.2,103.992
+3013,07/03/2024,,Desk Organizer,Furniture,North,2,12.99,,12.99
+3014,07/03/2024,,Vacuum Cleaner,Home Appliances,South,1,129.99,0.2,103.992
+3015,08/03/2024,,Basketball,Sports,East,1,14.99,,14.99
+3015,08/03/2024,,Yoga Mat,Sports,East,3,19.99,,19.99
+3016,08/03/2024,,Bookshelves,Furniture,West,1,89.99,,89.99
+3017,09/03/2024,,Stapler,Stationery,North,2,5.99,,5.99
+3018,09/03/2024,,Tablet,Electronics,South,1,249.99,0.15,212.4915
+3019,10/03/2024,,Toaster,Home Appliances,East,1,29.99,,29.99
+3020,10/03/2024,,Dumbbells,Sports,West,1,24.99,,24.99
+3021,11/03/2024,,Office Desk,Furniture,North,1,199.99,0.1,179.991
+3022,11/03/2024,,Markers,Stationery,South,10,1.99,,1.99
+3023,12/03/2024,,Webcam,Electronics,East,1,49.99,,49.99
+3024,12/03/2024,,Microwave,Home Appliances,West,1,99.99,0.05,94.9905
+3024,12/03/2024,,Vacuum Cleaner,Home Appliances,North,1,129.99,0.2,103.992
+3025,13/03/2024,,Tennis Racket,Sports,North,1,69.99,,69.99
+3026,13/03/2024,,File Cabinet,Furniture,South,1,129.99,,129.99
+3027,14/03/2024,,Highlighters,Stationery,East,6,1.49,,1.49
+3027,14/03/2024,,Vacuum Cleaner,Home Appliances,South,1,129.99,0.2,103.992
+3028,14/03/2024,,Laptop,Electronics,West,1,799.99,0.1,719.991
+3029,15/03/2024,,Slow Cooker,Home Appliances,North,1,59.99,,59.99
+3029,15/03/2024,,Vacuum Cleaner,Home Appliances,North,1,129.99,0.2,103.992
+3030,15/03/2024,,Jump Rope,Sports,South,2,7.99,,7.99
+3031,16/03/2024,,Bookshelves,Furniture,East,1,89.99,,89.99
+3032,16/03/2024,,Sticky Notes,Stationery,West,12,0.99,,0.99
+3033,17/03/2024,,Wireless Keyboard,Electronics,North,1,39.99,,39.99
+3034,17/03/2024,,Air Purifier,Home Appliances,South,1,149.99,0.1,134.991
+3035,18/03/2024,,Basketball,Sports,East,2,14.99,,14.99
+3036,18/03/2024,,Office Chair,Furniture,West,1,149.99,0.15,127.4915
+3037,19/03/2024,,Envelopes,Stationery,North,8,0.79,,0.79
+3038,19/03/2024,,Smartphone,Electronics,South,1,599.99,0.1,539.991
+3039,20/03/2024,,Blender,Home Appliances,East,1,49.99,,49.99
+3040,20/03/2024,,Yoga Block,Sports,West,4,9.99,,9.99
+3041,21/03/2024,,Desk Lamp,Furniture,North,1,22.5,,22.5
+3042,21/03/2024,,Notebook,Stationery,South,6,2.99,,2.99
+3043,22/03/2024,,Monitor Stand,Electronics,East,1,29.99,,29.99
+3044,22/03/2024,,Air Fryer,Home Appliances,West,1,89.99,0.05,85.4905
+3045,23/03/2024,,Treadmill,Sports,North,1,499.99,0.2,399.992
+3046,23/03/2024,,Office Desk,Furniture,South,1,199.99,0.1,179.991
+3047,24/03/2024,,Pen Set,Stationery,East,3,4.99,,4.99
+3048,24/03/2024,,Keyboard,Electronics,West,1,29.99,,29.99
+3049,25/03/2024,,Vacuum Cleaner,Home Appliances,North,1,129.99,0.2,103.992
+3050,25/03/2024,,Water Bottle,Sports,South,4,9.99,,9.99
